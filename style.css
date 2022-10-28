@@ -54,7 +54,7 @@
 }
 
 .task-list__input,
-.new-task__input, 
+.new-task__input,
 .button {
   outline: none;
 }
@@ -85,7 +85,7 @@
   text-transform: uppercase;
 }
 
-.task-list__input, 
+.task-list__input,
 .new-task__input {
   margin: 0;
   font-size: 18px;
@@ -106,8 +106,8 @@
 /* New Task */
 
 .new-task__input {
-    width: 422px;
-    margin: 20px 0;
+  width: 422px;
+  margin: 20px 0;
 }
 
 /* Task list */
